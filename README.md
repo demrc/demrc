@@ -4,5 +4,4 @@
 - 💞️ I’m looking for new oppurtunities.
 - 📫 You can reach me on linkedin.
 
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=demrc&show_icons=true)
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=demrc&show_icons=true&theme=radical)
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=demrc&show_icons=true&theme=tokyonight)
