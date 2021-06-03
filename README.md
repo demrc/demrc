@@ -6,4 +6,4 @@
 
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=demrc&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=demrc)](https://github.com/anuraghazra/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=demrc&color=grey)
+![](https://komarev.com/ghpvc/?username=demrc&color=grey&style=plastic)
