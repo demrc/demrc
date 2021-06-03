@@ -9,9 +9,8 @@
 ![](https://komarev.com/ghpvc/?username=demrc&color=grey&style=plastic)
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
