@@ -10,7 +10,7 @@ Data Scientist - Turkcell
 
 Tech Toolbox 🛠️
 Languages: Python, SQL
-Tools: AWS, GCP, Docker, Git
+Tools: GCP, Docker, Git
 Specialties: Machine Learning, NLP
 
 Education 🎓
